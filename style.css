@@ -28,6 +28,8 @@ h1{
 form{
     display: grid;
     gap:10px;
+    justify-content: center;
+    align-items: center;
 }
 input,button{
     text-align: center;
