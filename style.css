@@ -46,3 +46,15 @@ button{
 button:hover{
         background: rgb(157, 157, 239);
 }
+@media (max-width:700px){
+    input,button{
+        margin:auto  10px;
+    }
+    .todo-container{
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+
+    
+}
